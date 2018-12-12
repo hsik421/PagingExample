@@ -1,4 +1,4 @@
-package com.hackers.app.bigple.util
+package com.mobile.app.pagingexample
 
 import android.graphics.Rect
 import androidx.recyclerview.widget.RecyclerView
